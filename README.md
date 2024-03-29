@@ -1,3 +1,8 @@
+
+If it works for you and you remember me if you become very rich one day, I'll leave a small address here for you to donate 
+USDT TRC20 = TC3y2crhRXzoQYhe3rMDNzz6DSrvtonwa3
+
+
 Hello, I am sharing with you the instagram bulk profile editing codes that I created for my own needs as a result of months.
 Instagrapi infrastructure was used It will never work without Instagrapi.
 Download the latest version of instagrapi and put maraba.py in the main folder and transfer the doc folder into the main folder in the same way.
