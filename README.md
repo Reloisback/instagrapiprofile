@@ -57,7 +57,6 @@ Other settings in `setting.txt` are experimental and may not work reliably. It i
 
 ## 🚜 **Contact**
 
-If you need assistance or wish to purchase **1600 Instagram accounts** suitable for the API system:
 - **Telegram**: [@reloisback](https://t.me/reloisback)
 
 ---
