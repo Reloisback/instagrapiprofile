@@ -1,6 +1,6 @@
 
 If it works for you and you remember me if you become very rich one day, I'll leave a small address here for you to donate 
-USDT TRC20 = TC3y2crhRXzoQYhe3rMDNzz6DSrvtonwa3
+<a href="https://www.buymeacoffee.com/reloisback" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 Hello, I am sharing with you the instagram bulk profile editing codes that I created for my own needs as a result of months.
@@ -36,9 +36,7 @@ change_password= if you set this to true, it will update your password with the 
 Other settings not listed here but in setting.txt are experimental. They may not work, so I recommend using only the features I have described here
 
 
-
-
-
-In the meantime, I sell 1600 instagram accounts suitable for the API system, all of the accounts I sell are private accounts, all of them were used without any problems in the infrastructure you see.
-You can contact me to buy
-Telegram: https://t.me/reloisback
+<a href="https://www.buymeacoffee.com/reloisback" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+I'm happy if it worked for you, the codes I shared are completely free. 
+If you want to support me you can use Buy me a Coffe.
+Thanks a lot
